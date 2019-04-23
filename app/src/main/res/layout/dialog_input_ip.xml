@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="324dp"
+    android:background="@mipmap/hotel_background2"
+    android:padding="36dp">
+
+    <TextView
+        android:id="@+id/input_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:text="@string/set_ip"
+        android:textColor="@color/white_1"
+        android:textSize="@dimen/S32"/>
+
+    <EditText
+        android:id="@+id/input_ip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_marginTop="82dp"
+        android:singleLine="true"
+        android:textCursorDrawable="@null"
+        android:background="@null"
+        android:textColor="@color/white_1"
+        android:textSize="@dimen/S28"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/input_ip"
+        android:background="@color/green"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/ip_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:padding="12dp"
+            android:background="@drawable/main_item_selector"
+            android:text="@string/cancel"
+            android:layout_marginEnd="20dp"
+            android:textColor="@color/white_1"
+            android:textSize="@dimen/S28"/>
+
+        <Button
+            android:id="@+id/ip_ok"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:padding="12dp"
+            android:layout_marginStart="20dp"
+            android:background="@drawable/main_item_selector"
+            android:text="@string/ok"
+            android:textColor="@color/white_1"
+            android:textSize="@dimen/S28"/>
+    </LinearLayout>
+
+</RelativeLayout>

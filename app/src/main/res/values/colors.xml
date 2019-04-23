@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_1">#E6E6E6</color>s
+    <color name="white_2">#ABAEB1</color>
+
+    <color name="dark">#000000</color>
+    <color name="dark_20">#CC000000</color>
+    <color name="dark_40">#99000000</color>
+    <color name="dark_50">#80000000</color>
+    <color name="dark_60">#66000000</color>
+    <color name="dark_80">#33000000</color>
+    <color name="dark_100">#00000000</color>
+    
+    <color name="black">#E1E6F6</color>
+
+    <color name="grey">#333333</color>
+    <color name="grey_1">#807F81</color>
+    <color name="play_seekbar_play">#00D8E0</color>
+    <color name="grey_button">#708090</color>
+
+    <color name="green">#38A43D</color>
+    <color name="green_20">#CC38A43D</color>
+    <color name="green_40">#9938A43D</color>
+    <color name="green_60">#6638A43D</color>
+    <color name="green_80">#3338A43D</color>
+
+    <color name="red">#EA2000</color>
+    <color name="red_1">#B51E1E</color>
+    <color name="yellow">#FFA019</color>
+
+    <!--<color name="blue">#00B0F0</color>-->
+    <color name="blue">#47B1FE</color>
+    <color name="text_color">#9D3A20</color>
+
+    <color name="lucency">#00000000</color>
+
+</resources>

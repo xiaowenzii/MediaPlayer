@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main VLC Interface -->
+    <string name="app_name" translatable="false">TV-Media</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="title">TITLE</string>
+
+    <string name="address">HUIZHOU·CHINA</string>
+    <string name="weather">11℃~24℃</string>
+    <string name="date">01-01-2018</string>
+    <string name="weekDay">Friday</string>
+    <string name="movieName">换电池</string>
+    <string name="movie_play_time">00:00</string>
+    <string name="movie_all_time">00:00</string>
+    <string name="tv_live">Live Channels</string>
+    <string name="from_last_time">Play from the end of last time?</string>
+    <string name="loading">Loading...</string>
+    <string name="downloading">Downloading</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="update_apk_version">Please update APP version to ?</string>
+    <string name="update_apk_version_1">Are you sure to update APP version to ?</string>
+    <string name="sdcard_connot_exits">No SD card found, please insert SD card</string>
+    <string name="setting">Settings</string>
+    <string name="net_work_unsed">Network Unavailable</string>
+    <string name="net_work_notifition">Network Settings Tips</string>
+    <string name="net_work_not_used">Network Unavailable,do you want to configure it?</string>
+    <string name="buy_movie">Non subscribed. Watch this movie after subscription.</string>
+    <string name="not_login_or_buy">No login or non subscribed. Watch this movie after subscription.</string>
+    <string name="set_ip">Setup IP Address</string>
+    <string name="input_ip">Please type new IP address</string>
+    <string name="login_fail">Authentication failed, please try again</string>
+    <string name="unknown_title">Unknown Title</string>
+    <string name="request_error">Request channels failed</string>
+    <string name="no_live_channel">No live channel</string>
+    <string name="prompt">Tips</string>
+    <string name="exit_play">Do you want to exit?</string>
+    <string name="exit_system">Are you sure to exit the system?</string>
+    <string name="movie_loading_slowly">Loading......it may take a while, keep waiting?</string>
+    <string name="yes_1">YES</string>
+    <string name="no_1">NO</string>
+
+    <string name="welcome_language">Welcome to stay in XXX hotel</string>
+    <string name="roomnumber">ROOM NO.</string>
+    <string name="room_set">set to</string>
+    <string name="exit_words">Are you sure to exit the system?</string>
+    <string name="self_start_words">Auto startup APP</string>
+    <string name="version">SW Version</string>
+    <string name="set_roomnum">Set ROOM NO.</string>
+    <string name="self_start_open_words">Auto startup Enabled</string>
+    <string name="self_start_close_words">Auto startup Disabled</string>
+    <string name="app_is_the_latest">Current APP version is the latest</string>
+    <string name="set_room_successful">ROOM NO.setup is done！</string>
+    <string name="set_room_fail">ROOM NO.setup failed，please try again！</string>
+    <string name="set_room_is_exit">ROOM NO.is already exist！</string>
+
+    <string name="hotel">My Hotel</string>
+    <string name="my_live">Live Channels</string>
+    <string name="my_setting">Settings</string>
+    <string name="install_apk">Newer APP installed！</string>
+
+    <string name="netword_unavailable">Current Network Unavailable</string>
+    <string name="ip_set_success">IP address Setup is done!</string>
+    <string name="ip_cannot_null">Please set IP address</string>
+    <string name="ip_cannot_same">Please set new IP address</string>
+
+    <string name="WELLAV">WELLAV</string>
+    <string name="week">星    期    三</string>
+    <string name="home">HOME</string>
+    <string name="live">LIVE TV</string>
+    <string name="hotelstyle">HOTEL</string>
+    <string name="server">SERVICE</string>
+    <string name="food">FOOD</string>
+    <string name="hotel_introduction">Hotel Brief</string>
+    <string name="brand_history">About Brand</string>
+    <string name="room_introduction">About Room</string>
+    <string name="facility_introduction">About Facilities</string>
+    <string name="business_service">Business Service</string>
+    <string name="hotel_food">Hotel Food</string>
+    <string name="local_features">Local Food</string>
+
+    <string name="room_number">ROOM NO.:</string>
+    <string name="server_ip">Server IP:</string>
+    <string name="local_ip">Host IP:</string>
+    <string name="Version">Version:</string>
+
+    <string name="no_channel">No Live Channel</string>
+</resources>

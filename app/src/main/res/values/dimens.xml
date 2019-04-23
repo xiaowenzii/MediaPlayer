@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- 滚动窗口 -->
+    <dimen name="fading_edge">80dp</dimen>
+
+    <dimen name="listview_width">320dp</dimen>
+    <dimen name="item_height">72dp</dimen>
+
+    <dimen name="S16">16sp</dimen>
+    <dimen name="S18">18sp</dimen>
+    <dimen name="S19">19sp</dimen>
+    <dimen name="S20">20sp</dimen>
+    <dimen name="S22">22sp</dimen>
+    <dimen name="S24">24sp</dimen>
+    <dimen name="S28">28sp</dimen>
+    <dimen name="S32">32sp</dimen>
+    <dimen name="S36">36sp</dimen>
+    <dimen name="S48">48sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

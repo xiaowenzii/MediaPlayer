@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main VLC Interface -->
+    <string name="app_name" translatable="false">TV-Media</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="title">标题</string>
+
+    <string name="address">中国·惠州</string>
+    <string name="weather">11℃~24℃</string>
+    <string name="date">2018.01.01</string>
+    <string name="weekDay">星期五</string>
+    <string name="movieName">换电池</string>
+    <string name="movie_play_time">00:00</string>
+    <string name="movie_all_time">00:00</string>
+    <string name="tv_live">电视直播</string>
+    <string name="from_last_time">从上次结束时开始播放?</string>
+    <string name="loading">加载中...</string>
+    <string name="downloading">正在下载中</string>
+    <string name="yes">确定</string>
+    <string name="no">取消</string>
+    <string name="update_apk_version">请升级APP至版本</string>
+    <string name="update_apk_version_1">确定升级APP至版本</string>
+    <string name="sdcard_connot_exits">SD卡不可用，请插入SD卡</string>
+    <string name="setting">设置</string>
+    <string name="net_work_unsed">网络不可用</string>
+    <string name="net_work_notifition">网络设置提示</string>
+    <string name="net_work_not_used">网络连接不可用,是否进行设置?</string>
+    <string name="buy_movie">您未购买此片，购买后再观看</string>
+    <string name="not_login_or_buy">您未登入或者未购买此片，请登入后或者购买后再观看</string>
+    <string name="set_ip">设置IP</string>
+    <string name="input_ip">请输入新的IP</string>
+    <string name="login_fail">登入鉴权失败, 重新登入</string>
+    <string name="unknown_title">未知片名</string>
+    <string name="request_error">请求节目失败</string>
+    <string name="no_live_channel">没有直播节目</string>
+    <string name="prompt">提示</string>
+    <string name="exit_play">确定退出播放？</string>
+    <string name="exit_system">你确定要退出系统吗？</string>
+    <string name="movie_loading_slowly">影片加载缓慢，可能会等待一段时间，是否继续等待？</string>
+    <string name="yes_1">是</string>
+    <string name="no_1">否</string>
+
+    <string name="welcome_language">欢迎入住XXX酒店</string>
+    <string name="roomnumber">房间号</string>
+    <string name="room_set">设置为</string>
+    <string name="exit_words">你确定要退出系统吗？</string>
+    <string name="self_start_words">开机自启动应用</string>
+    <string name="version">软件版本信息</string>
+    <string name="set_roomnum">设置房间号</string>
+    <string name="self_start_open_words">开机自启动已开启</string>
+    <string name="self_start_close_words">开机自启动已关闭</string>
+    <string name="app_is_the_latest">应用已经是最新版</string>
+    <string name="set_room_successful">设置房间号成功！</string>
+    <string name="set_room_fail">设置房间号失败，请重新设置！</string>
+    <string name="set_room_is_exit">设置房间号失败，该房间号已存在！</string>
+
+    <string name="hotel">我的酒店</string>
+    <string name="my_live">电视直播</string>
+    <string name="my_setting">我的设置</string>
+    <string name="install_apk">您已安装高版本应用！</string>
+
+    <string name="netword_unavailable">当前网络不可用</string>
+    <string name="ip_set_success">IP设置成功</string>
+    <string name="ip_cannot_null">IP不能为空</string>
+    <string name="ip_cannot_same">请输入新的IP地址</string>
+
+    <string name="WELLAV">伟乐科技</string>
+    <string name="week">星    期    三</string>
+    <string name="home">主页</string>
+    <string name="live">电视直播</string>
+    <string name="hotelstyle">酒店风采</string>
+    <string name="server">服务指南</string>
+    <string name="food">特色美食</string>
+    <string name="hotel_introduction">酒 店 介 绍</string>
+    <string name="brand_history">品 牌 历 史</string>
+    <string name="room_introduction">客 房 介 绍</string>
+    <string name="facility_introduction">设 施 介 绍</string>
+    <string name="business_service">商 务 服 务</string>
+    <string name="hotel_food">酒 店 美 食</string>
+    <string name="local_features">当 地 特 色</string>
+
+    <string name="room_number">房　间　号:</string>
+    <string name="server_ip">服务器ＩＰ:</string>
+    <string name="local_ip">本　机ＩＰ:</string>
+    <string name="Version">版　本　号:</string>
+
+    <string name="no_channel">当前没有直播节目</string>
+</resources>
